@@ -1,0 +1,23 @@
+
+1.-Removedor de fondo de logo (https://www.remove.bg/es/upload)
+
+2.-Pagina de iconos (https://boxicons.com/)
+
+3.-Normalizacion de css (https://necolas.github.io/normalize.css/)
+
+4.-diseño de cabezera (https://bennettfeely.com/clippy/)
+
+5.-Removedor de marca de agua(https://www.watermarkremover.io/es/upload)
+
+6.-Fuente de las letras(https://fonts.google.com/specimen/Poppins?query=poppins)
+
+7.- Imagenes de alta calidad (https://unsplash.com/es)
+
+8.-Generador de Logo (https://turbologo.com/)
+
+9.-Verificador de propiedad en css (https://caniuse.com/)
+
+10.- envia y conecta con los correos (https://formspree.io/)
+
+
+
